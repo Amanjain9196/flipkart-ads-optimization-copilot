@@ -43,4 +43,4 @@ python app.py
 The script prints a ranked keyword optimization table and generates an `optimization_report.md` suitable for conversion into a weekly email or business review note.
 
 ## Portfolio signal
-Demonstrates multi-source analytics, performance marketing logic, recommendation systems, explainability and executive communication — useful for an AI Chief of Staff / AI product portfolio.
+Demonstrates multi-source analytics, performance marketing logic, recommendation systems, explainability and executive communication.
