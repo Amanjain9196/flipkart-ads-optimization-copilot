@@ -1,0 +1,16 @@
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+exports/
+private_data/
+local_data/
+*.xlsx
+*.xls
+.DS_Store
